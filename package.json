@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/SynZhang/react-upgrade-checker/issues"
   },
-  "homepage": "https://github.com/SynZhang/react-upgrade-checker#readme"
+  "homepage": "https://github.com/SynZhang/react-upgrade-checker#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "peerDependencies": {
+    "react-dom": "^16.8.0 || ^17.0.2"
+  }
 }
